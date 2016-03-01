@@ -1,0 +1,5 @@
+imgs/skin2/bg.png
+imgs/skin2/gamewin.png
+imgs/skin2/gamelose.png
+imgs/skin2/play1.png
+imgs/skin2/play2.png

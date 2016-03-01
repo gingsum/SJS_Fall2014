@@ -1,0 +1,12 @@
+imgs/skin1/icon0.png
+imgs/skin1/icon1.png
+imgs/skin1/icon2.png
+imgs/skin1/icon3.png
+imgs/skin1/icon4.png
+imgs/skin1/icon5.png
+imgs/skin1/icon6.png
+imgs/skin1/icon7.png
+imgs/skin1/icon8.png
+imgs/skin1/icon9.png
+imgs/skin1/icon10.png
+imgs/skin1/icon11.png
